@@ -7,7 +7,13 @@ package pbo6.pkg10116228.latihan6.kambingstatic;
 
 /**
  *
- * @author Rizki Adam Kurniawan
+* @author 
+ *  Dosen   : Rizki Adam Kurniawan
+ *  Nama    : Gandy Christian Situmorang
+ *  kelas   : PBO6
+ *  NIM     : 10116228
+ *  deskripsi program    : Program ini berisi program latihan Kambing static
+ *
  */
 public class kambingstatic {
     //Nama_Kambing sebagai konstanta
